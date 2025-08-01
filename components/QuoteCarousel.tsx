@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 const quotes = [
   "Some-people born to survive, to live the environment.",
   "Some-people born to challenge, to choose the environment.",
-  "Some-people born to be creative, to stay truthful in the environment."
+  "Some-people born to be creative, to stay truthful in the environment.",
   "踏空之人",
 ];
 
