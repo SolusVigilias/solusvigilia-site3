@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState, useEffect } from "React";
 import ProjectCard from "./ProjectCard";
 
 export default function ProjectDeck() {

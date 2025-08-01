@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect } from "React";
 
 const quotes = [
   "Some-people born to survive, to live the environment.",
