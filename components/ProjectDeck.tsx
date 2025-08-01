@@ -1,5 +1,12 @@
 "use client";
-import { useState, useEffect } from "react";
+import type { ReactNode } from "react";
+
+interface ProjectCardProps {
+  title: string;
+  excerpt: string;
+  cta: ReactNode;
+  children: ReactNode;
+}
 import ProjectCard from "./ProjectCard";
 
 export default function ProjectDeck() {
