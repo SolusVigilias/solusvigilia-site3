@@ -1,5 +1,5 @@
-import React from "react";
-
+"use client";
+import { useState, useEffect } from "react";
 export default function Footer() {
   return (
     <footer className="mt-32 py-12 bg-white text-center">
