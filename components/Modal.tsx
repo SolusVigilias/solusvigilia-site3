@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "React";
+import type { ReactNode } from "React";
 
 interface ModalProps {
   title: string;
