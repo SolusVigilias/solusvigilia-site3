@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "React";
+import { useEffect, useState } from "react";
 import matter from "gray-matter";
 import LanguageToggle from "@/components/LanguageToggle";
 

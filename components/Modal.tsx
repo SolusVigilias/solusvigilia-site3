@@ -1,5 +1,5 @@
 "use client";
-import type { ReactNode } from "React";
+import type { ReactNode } from "react";
 
 interface ModalProps {
   title: string;
